@@ -14,6 +14,7 @@ TimeTumbler - CLI утилита для создания заметок и TODO
 ./main
 ```
 **Manual:**
+
 Скачайте main.cpp:
 ```
 git clone https://github.com/igoresaa/timetumbler
